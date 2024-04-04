@@ -22,10 +22,10 @@
 </a> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://example.com/path/to/powerautomate-logo.svg" alt="Power Automate" width="40" height="40"/></a>
 
 <!-- SPOTIFY LIVE PLAY -->
-<h3 align="left">Mine Happy Place</h3>
+<!--<h3 align="left">Mine Happy Place</h3>
 <p align="left">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31t5dsw2fj6gm4ywewn6crqdi3se&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
+</p>-->
 
 <!-- TOP LANGUAGES WORKED ON GITHUB -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinisharathod&show_icons=true&locale=en&layout=compact" alt="Vinisha Rathod" /></p>
