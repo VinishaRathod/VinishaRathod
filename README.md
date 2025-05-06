@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinisha Rathod</h1>
-<h4 align="center">Sotware Developer from India on a journey to become a master of all trades by learning something new everyday.</h4>
+<h4 align="center">Software Developer from India on a journey to become a master of all trades by learning something new everyday.</h4>
 <h4 align="center">SELECT COUNT(*) AS learning_opportunities FROM failures 🚀📚💡</h4>
 - 🌱 I’m currently learning **React**
 
